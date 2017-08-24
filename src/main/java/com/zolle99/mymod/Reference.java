@@ -11,7 +11,8 @@ public class Reference {
 	public static final String SERVER_PROXY_CLASS = "com.zolle99.mymod.proxy.ServerProxy";
 	
 	public static enum MyModItems {
-		OBSIDIANINGOT("obsidianIngot", "ItemObsidianIngot");
+		OBSIDIANINGOT("obsidianIngot", "ItemObsidianIngot"),
+		THICKSTICK("thickStick", "ItemThickStick");
 		
 		
 		private String unlocalizedName;
