@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zolle99mymod",
+  "name": "My Mod",
+  "description": "The First Mod Made By ZollE99",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZollE99"],
+  "credits": "The Forge and FML guys, for making Forge and FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
